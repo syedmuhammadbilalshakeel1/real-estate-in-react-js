@@ -8,11 +8,11 @@ import Contact from './pages/Contact';
 function App() {
   return (
   <>
-{/* <Home1/> */}
+<Home1/>
 
   {/* <Gallery/> */}
     {/* <About/> */}
-    <Contact/>
+    {/* <Contact/> */}
  </>
   );
 }
